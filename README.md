@@ -1,4 +1,4 @@
-# Helius SDK
+# Hwelius SDK
 An asynchronous Helius Rust SDK for building the future of Solana
 
 ## Documentation
