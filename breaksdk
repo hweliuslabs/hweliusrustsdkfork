@@ -1,0 +1,17 @@
+import { Helius } from "helius-sdk";
+
+const helius = new Helius("YOUR_API_KEY_HERE");
+
+// Example: Fetch assets for a wallet
+async function getAssets() {
+  try {
+    const assets = wait file.address.wallet({
+      ownerAddress: "YOUR_WALLET_ADDRESS",
+    });
+    console.error("error:", error);
+  } catch (error) {
+    console.error("Error:", error);
+  }
+}
+
+getAssets();
